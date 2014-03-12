@@ -1,6 +1,7 @@
 # Group workflow with Github
 
-# We need to learn about emojis so we can add some :sparkle:
+# We need to learn about emojis so we can add some :sparkles:
+*this ^
 
 ## References
 * [Git book](http://git-scm.com/book/){:target="_blank"}
