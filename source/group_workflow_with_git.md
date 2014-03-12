@@ -1,5 +1,7 @@
 # Group workflow with Github
 
+# We need to learn about emojis so we can add some :sparkle:
+
 ## References
 * [Git book](http://git-scm.com/book/){:target="_blank"}
 * [Interactive Tutorial for visualizing Git commits](http://pcottle.github.io/learnGitBranching/){:target="_blank"}
